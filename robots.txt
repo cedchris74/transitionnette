@@ -1,0 +1,7 @@
+# robots.txt — Transition Nette
+# https://transitionnette.ca
+
+User-agent: *
+Allow: /
+
+Sitemap: https://transitionnette.ca/sitemap.xml
